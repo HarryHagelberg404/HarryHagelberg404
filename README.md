@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="404 gif of the planet" src="./404.gif" height="300px"/>
+  <img alt="404 gif of the planet" src="./404.gif" height="250px"/>
 </p>
 
 # HarryHagelberg404
