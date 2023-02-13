@@ -11,10 +11,8 @@ Software developer that enjoys to solve programatic problems. Lives by the philo
     * Frameworks such as React & Vue
 - Java & C#
     * Functional Java such as reactor/reactive.io
-- Python
-- Ansible
+- Python & Ansible
 - Docker & Kubernetes
-- Linux
 
 ### Does one of my repositories interest you? Contribute! 😄
 <!--
