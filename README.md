@@ -18,4 +18,4 @@
 <li>Docker & Kubernetes</li>
 </ul>
 
-<h2>Does one of my repositories interest you? Contribute! 😄<h2>
+<h3>Does one of my repositories interest you? Contribute! 😄<h3>
