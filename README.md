@@ -1,17 +1,21 @@
 <p align="center">
-  <img alt="404 gif of the planet" src="./404_cat.gif" height="200px"/>
+  <img alt="Nyan cat gif" src="./404_cat.gif" height="200px"/>
 </p>
 
-# HarryHagelberg404
+<h2 align="center">HarryHagelberg404</h2>
 
-Software developer that enjoys to solve programatic problems. Lives by the philosophy to customize and automate everything! Currently work as a fullstack developer at a fintech company. I prefer backend logic rather than frontend niceness.
+<p>
+  Software developer that enjoys to solve programatic problems. Lives by the philosophy to customize and automate everything! Currently work as a fullstack developer at a fintech company. I prefer backend logic rather than frontend niceness
+</p>
 
-### Some technologies and skills i master:
-- Javascript & Typescript
-    * Frameworks such as React & Vue
-- Java & C#
-    * Functional Java such as reactor/reactive.io
-- Python & Ansible
-- Docker & Kubernetes
+<h3>Some technologies and skills i master:</h3>
+<ul>
+<li>Javascript & Typescript</li>
+<li>Frameworks such as React & Vue</li>
+<li>Java & C#</li>
+<li>Functional Java such as reactor/reactive.io</li>
+<li>Python & Ansible</li>
+<li>Docker & Kubernetes</li>
+</ul>
 
-### Does one of my repositories interest you? Contribute! 😄
+<h2>Does one of my repositories interest you? Contribute! 😄<h2>
