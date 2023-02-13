@@ -8,7 +8,7 @@
   Software developer that enjoys to solve programatic problems. Lives by the philosophy to customize and automate everything! Currently work as a fullstack developer at a fintech company. I prefer backend logic rather than frontend niceness
 </p>
 
-<h3>Some technologies and skills i master:</h3>
+<h3>Some technologies and skills I master:</h3>
 <ul>
 <li>Javascript & Typescript</li>
 <li>Frameworks such as React & Vue</li>
