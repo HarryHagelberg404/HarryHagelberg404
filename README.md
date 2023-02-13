@@ -1,8 +1,8 @@
-<p align="center">
-  <img alt="Nyan cat gif" src="./404_cat.gif" height="200px"/>
+<p>
+  <img alt="Nyan cat gif" src="./404_cat.gif" height="150px"/>
 </p>
 
-<h2 align="center">HarryHagelberg404</h2>
+<h2 align="center" marginTop="-20px">HarryHagelberg404</h2>
 
 <p>
   Software developer that enjoys to solve programatic problems. Lives by the philosophy to customize and automate everything! Currently work as a fullstack developer at a fintech company. I prefer backend logic rather than frontend niceness
