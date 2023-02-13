@@ -1,5 +1,20 @@
-### Hi there 👋
+![](hhttps://github.com/HarryHagelberg404/HarryHagelberg404/404.gif)
 
+# HarryHagelberg404
+
+Software developer that enjoys to solve programatic problems. Lives by the philosophy to customize and automate everything! Currently work as a fullstack developer but prefers backend logic rather than frontend niceness.
+
+### Some technologies and skills i master:
+- Javascript & Typescript
+    * Frameworks such as React & Vue
+- Java & C#
+    * Functional Java such as reactor/reactive.io
+- Python
+- Ansible
+- Docker & Kubernetes
+- Linux
+
+### Does one of my repositories interest you? Contribute! 😄
 <!--
 **HarryHagelberg404/HarryHagelberg404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
