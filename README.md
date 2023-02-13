@@ -1,8 +1,10 @@
-![](hhttps://github.com/HarryHagelberg404/HarryHagelberg404/404.gif)
+<p align="center">
+  <img alt="404 gif of the planet" src="./404.gif" height="300px"/>
+</p>
 
 # HarryHagelberg404
 
-Software developer that enjoys to solve programatic problems. Lives by the philosophy to customize and automate everything! Currently work as a fullstack developer but prefers backend logic rather than frontend niceness.
+Software developer that enjoys to solve programatic problems. Lives by the philosophy to customize and automate everything! Currently work as a fullstack developer at a fintech company. I prefer backend logic rather than frontend niceness.
 
 ### Some technologies and skills i master:
 - Javascript & Typescript
