@@ -11,7 +11,7 @@
 <h3>Some technologies and skills I master:</h3>
 <ul>
 <li>Javascript & Typescript</li>
-<li>Frameworks such as React & Vue</li>
+<li>Frameworks such as React, Vue & Node</li>
 <li>Java & C#</li>
 <li>Functional Java such as reactor/reactive.io</li>
 <li>Python & Ansible</li>
