@@ -5,7 +5,7 @@
 <h2 align="center" marginTop="-20px">HarryHagelberg404</h2>
 
 <p>
-  Software developer that enjoys to solve programatic problems. Lives by the philosophy to customize and automate everything! Currently work as a fullstack developer at a fintech company. I enjoy backend logic as well as frontend niceness
+  Software developer that enjoys to solve programatic problems. Lives by the philosophy to customize and automate everything! Currently work as a IT-consultant at a consulting company. I enjoy backend logic as well as frontend niceness
 </p>
 
 <h3>Some technologies and skills I master:</h3>
